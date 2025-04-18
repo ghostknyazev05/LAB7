@@ -1,7 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 namespace Doom
 {
+    /// Класс взаимодействия с пользователем
     internal class Program
     {
         private static void Main()
