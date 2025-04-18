@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Doom
 {
+    /// Класс, который реализует решения задач 6-10
     internal class Tasks610
     {
         /// Задача 6: Удалить из списка L все элементы с указанным значением
